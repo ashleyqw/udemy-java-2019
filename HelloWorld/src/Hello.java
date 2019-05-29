@@ -5,5 +5,8 @@ public class Hello {
         System.out.println("Hello, World!");
         System.out.println("Hello, Argentina!");
 
+        int myFirstNumber = 8;
+        System.out.println(myFirstNumber);
+
     }
 }
