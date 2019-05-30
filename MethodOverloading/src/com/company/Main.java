@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
 
-    // accessible to all methods in class
+    // accessible to methods in class
     // final means unchangeable; it's constant, and by convention in all caps
     private static final String INVALID_VALUE_MESSAGE = "Invalid Value";
 
